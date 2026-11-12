@@ -1,3 +1,8 @@
+***** Battery Insight has been replaced by Endura *****
+
+https://github.com/coatimundiapps/Endura
+
+
 # 🔋 Battery Insight
 
 > A modern, Deepin 25-inspired battery monitor for Linux.
